@@ -117,9 +117,7 @@ python analysis.py
 ## Author
 
 **mhmd gholami**  
-BSc Business Administration — Ca' Foscari University of Venice  
-MSc Data Science & Quantitative Finance (incoming) — University of Milan  
-Milan, Italy
+
 
 ---
 
